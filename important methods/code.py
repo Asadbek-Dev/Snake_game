@@ -6,4 +6,5 @@ tup = ([], [], 0)
 
 
 print(any(tup))
+
 print(all(lst2))
